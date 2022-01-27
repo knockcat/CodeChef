@@ -26,4 +26,4 @@ int main() {
 
 // Solution link
 
-// https://www.codechef.com/viewsolution/57128789
+// https://www.codechef.com/viewsolution/57128789 
