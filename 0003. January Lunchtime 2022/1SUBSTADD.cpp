@@ -1,6 +1,6 @@
 // https://www.codechef.com/LTIME104C/problems/SUBSTADD
 
-// Chef and Subset Additions 
+// Chef and Subset Additions
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -51,7 +51,7 @@ int main()
         }
 
         cout<<"\n";
-        
+
         for(int i = 0; i<n; i++)
         {
             cout<<v1[i]<<" ";
