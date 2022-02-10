@@ -38,4 +38,4 @@ int main()
 
 // Solution Link
 
-https: // www.codechef.com/viewsolution/58154999
+// https: // www.codechef.com/viewsolution/58154999
