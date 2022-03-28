@@ -31,4 +31,4 @@ int main()
 
 // Solution Link
 
-// https://www.codechef.com/viewsolution/60561849
+https://www.codechef.com/viewsolution/60561849
