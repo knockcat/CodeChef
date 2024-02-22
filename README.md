@@ -1,4 +1,5 @@
 # CodeChef
 I Will Keep My Codechef Practice and Contests Problem Solution Here.
 
-![image](https://user-images.githubusercontent.com/85362504/166129374-eb3b8134-d79c-4418-a358-94df3472dd41.png)
+![image](https://github.com/knockcat/CodeChef/assets/85362504/8d86a95e-e94c-449b-8433-812dea44e085)
+
